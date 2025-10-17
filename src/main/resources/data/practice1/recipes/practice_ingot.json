@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SSS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "practice1:practice_ingot",
+    "count": 1
+  }
+}

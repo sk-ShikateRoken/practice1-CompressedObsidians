@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "practice1:compressed_obsidian_power_3"
+    }
+  },
+  "result": {
+    "item": "practice1:compressed_obsidian_power_4",
+    "count": 1
+  }
+}

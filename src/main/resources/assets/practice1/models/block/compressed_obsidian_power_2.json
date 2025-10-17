@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "practice1:block/compressed_obsidian_power_2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TST",
+    "STS",
+    "TST"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:deepslate"
+    },
+    "T": {
+      "item": "practice1:compressed_obsidian_power_9"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

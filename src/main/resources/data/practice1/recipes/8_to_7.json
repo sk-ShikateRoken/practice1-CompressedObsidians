@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "practice1:compressed_obsidian_power_8"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "practice1:compressed_obsidian_power_7"
+  }
+}
